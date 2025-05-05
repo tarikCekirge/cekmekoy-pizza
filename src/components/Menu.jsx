@@ -1,6 +1,6 @@
 import React from 'react'
 import Pizza from './Pizza'
-import { pizzaData } from '../pizzas/data'
+import { pizzaData } from '../data'
 
 const Menu = () => {
     console.log(pizzaData)
