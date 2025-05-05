@@ -10,7 +10,7 @@ const Footer = () => {
         <footer>
             <div style={{ textAlign: "center" }}>
                 <p style={{ marginBottom: ".5rem" }}>{isOpen ? 'Açık' : "Kapalı"} </p>
-                <p>Hafta içi:10:00-24:00 <br /> Hafta sonu: 10:00-00:00</p>
+                <p>Hafta içi:10:00-00:00 <br /> Hafta sonu: 10:00-00:00</p>
             </div>
         </footer>
     )
